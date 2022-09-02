@@ -3,28 +3,23 @@ import React from "react";
 //Misal kita memiliki data API seperti berikut ini:
 const dataApi = [
     {
-        namaBarang: "gitar",
-        hargaBarang: 2500000
+        namaBarang: "sepatu bola",
+        hargaBarang: 500000
 
     },
     {
-        namaBarang: "bass",
-        hargaBarang: 2000000
+        namaBarang: "bola",
+        hargaBarang: 400000
 
     },
     {
-        namaBarang: "keyboard",
-        hargaBarang: 5000000
+        namaBarang: "raket",
+        hargaBarang: 1000000
 
     },
     {
-        namaBarang: "drum",
-        hargaBarang: 25000000
-
-    },
-    {
-        namaBarang: "sexophone",
-        hargaBarang: 30000000
+        namaBarang: "net",
+        hargaBarang: 600000
 
     },
 ]
